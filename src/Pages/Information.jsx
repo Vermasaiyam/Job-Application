@@ -7,6 +7,10 @@ import Footer from '../Components/Footer'
 const Information = () => {
   return (
     <div>
+      <div>
+        <UpperNavbar/>
+        <Navbar/>
+      </div>
       
       <form className="p-8 max-w-md mx-auto bg-white shadow-md rounded-xl">
         <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
@@ -100,7 +104,9 @@ const Information = () => {
           <button className=' px-6 py-2 text-white bg-red-500 hover:bg-red-600 focus:ring-4 focus:outline-none focus:ring-red-300 font-medium rounded-lg text-center dark:bg-red-500 dark:hover:bg-red-500 dark:focus:ring-red-600'>Submit</button>
         </div>
       </form>
-      )
+      <div>
+        <Footer/>
+      </div>
     </div>
   )
 }
