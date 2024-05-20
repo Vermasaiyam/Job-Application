@@ -14,15 +14,15 @@ export default class Main_Section extends Component {
                 <div className='flex bg-brown-200 h-auto '>
                     <div className="left flex justify-center pt-10 border-r-2 border-gray-300" style={{ width: "350px", height: "500px" }}>
                         <div className="flex flex-col ">
-                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Woman's Fashion</h1></a>
-                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Men's Fashion </h1></a>
-                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Electronics </h1></a>
-                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Home & Lifestyle </h1></a>
-                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Medicine </h1></a>
-                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Sports & Outdoor </h1></a>
-                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Baby's & Toys</h1></a>
-                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Groceries and Pets</h1></a>
-                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Health & Beauty</h1></a>
+                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Web Developer</h1></a>
+                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>App Developer </h1></a>
+                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Data Scientist </h1></a>
+                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>AI & ML </h1></a>
+                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>HR </h1></a>
+                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Marketing & Communication</h1></a>
+                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Software Developer</h1></a>
+                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'>Others</h1></a>
+                            <a href="" className='hover:text-red-500'><h1 className='py-1 font-semibold'></h1></a>
                         </div>
                     </div>
 

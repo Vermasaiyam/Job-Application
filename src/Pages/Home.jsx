@@ -16,7 +16,7 @@ const Home = () => {
             <Navbar />
             <Main_Section />
             <Sales />
-            <Category />
+            {/* <Category /> */}
             <BestSellingProducts />
             <NewArrival />
             <Banner />
